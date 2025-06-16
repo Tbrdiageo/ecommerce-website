@@ -81,7 +81,6 @@ Contributions are welcome!
   Push chapter branch (git push origin feature/my-feature)
   Open a Pull Request
 
-License
-Distributed under the MIT License. See LICENSE for details.
+
 
 
