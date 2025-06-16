@@ -40,10 +40,6 @@ Project Structure
       └── icons/
   (Adjust this to match folders in your repo.)
 
-Live Demo
-  If you deployed this project (via GitHub Pages, Netlify, etc.), provide the link:
-  
-  Demo: https://yourusername.github.io/ecommerce-website/ (update accordingly)
 
 Setup & Installation
   Clone the repo
@@ -88,7 +84,4 @@ Contributions are welcome!
 License
 Distributed under the MIT License. See LICENSE for details.
 
-Contact
-Your Name – tbrdiageo@gmail.com
 
-GitHub: @Tbrdiageo
